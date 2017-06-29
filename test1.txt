@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-1qq23
-www
-=======
-123
->>>>>>> 706cc66... com dev 1
+test1 master 1
