@@ -1,4 +1,4 @@
-package mypac
+package github.com/accemt/test1/mypac
 
 import (
 	"fmt"
